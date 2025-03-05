@@ -23,9 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30" alt="Canva" />
   <br>
-  <b>Canva</b>
-  <br>
-  🎬 *Video Editing*
+  <h1>🎬Video Editing</h1>
 </p>
 
 ---
