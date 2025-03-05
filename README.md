@@ -1,7 +1,7 @@
 # Justine Lawrence Coronel | Bachelor of Science in Computer Science Student 🖥🖱
 
 
-🎓 **Currently a student at Cavite State University - Imus Campus**  
+🎓 **Currently a student from Cavite State University - Imus Campus**  
 📚 Exploring the world of **programming, software development, and web technologies**  
 💡 Trying to make sense of **C++, OOP, and Data Structures & Algorithms**  
 
