@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Justine Lawrence Coronel  
+# Justine Lawrence Coronel | Bachelor of Science in Computer Science Student 🖥🖱
 
 💻 **Aspiring Developer | Student at Cavite State University - Imus Campus**  
 📚 Currently learning **C++, OOP & Data Structures and Exploring Tech n Stuffs**  
@@ -7,40 +7,36 @@
 
 ### **💻 Programming Languages**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,postgres" height="75" alt="Java, C++, SQL" />
 </p>
 
 ### **🌐 Frontend Development**  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" height="75" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
 </p>
 
 ### **🎨 Design & Editing**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=canva" height="75" alt="Canva" />
   🎬 **Video Editing**
 </p>
 
 ---
 
-## 🚀 Currently Learning  
-📌 **C++ | Object-Oriented Programming | Data Structures & Algorithms**  
-
----
-
 ## 📬 Connect with Me  
-📧 **Email:** [justinecoronel001@gmail.com](mailto:justinecoronel001@gmail.com)  
-📘 **Facebook:** [facebook.com/znn666](https://facebook.com/znn666)  
+<p align="center">
+  <a href="mailto:justinecoronel001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/znn666" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🎯 Fun Fact  
-😂 **"I don't know how to code"** (but I actually do 😉)  
+💡 **"I don't know how to code"** (but I actually do 😉)  
 
 ---
 
