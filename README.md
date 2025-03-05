@@ -17,7 +17,7 @@
 
 ### **🎨 Design & Editing**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=canva" height="75" alt="Canva" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30" alt="Canva" />
   🎬 **Video Editing**
 </p>
 
@@ -35,8 +35,8 @@
 
 ---
 
-## 🎯 Fun Fact  
-💡 **"I don't know how to code"** (but I actually do 😉)  
+## 🎯 Favorite Quote
+💡 **"Imagination is more important than knowledge." - Albert Einstein** 
 
 ---
 
