@@ -19,10 +19,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" height="75" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
 </p>
 
-### **🎨 Design & Editing**
+### **🎨 Design & Editing**  
 <p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30" alt="Canva" />
-  <span style="display: inline-block; margin-left: 10px; vertical-align: middle;"><b>🎬 Video Editing</b></span>
+  <img src="https://img.shields.io/badge/Video Editing-FE562E?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" height="30" alt="Video Editing" />
 </p>
 
 
@@ -48,8 +48,8 @@
 
 ---
 
-## 🎯 Fun Fact  
-💡 **"I don't know how to code"** (but somehow, I keep making things work 🤣)  
+## 🎯 Favorite Quote
+💡 **"Imagination is more importan than knowledge" - Albert Einstein**
 
 ---
 
