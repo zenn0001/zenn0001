@@ -8,17 +8,24 @@
 ### **💻 Programming Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,postgres" height="75" alt="Java, C++, SQL" />
+  <br>
+  <b>Java, C++, SQL</b>
 </p>
 
 ### **🌐 Frontend Development**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" height="75" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
+  <br>
+  <b>HTML, CSS, Bootstrap, Tailwind CSS</b>
 </p>
 
 ### **🎨 Design & Editing**
 <p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30" alt="Canva" />
-  🎬 *Video Editing Enthusiast*
+  <br>
+  <b>Canva</b>
+  <br>
+  🎬 *Video Editing*
 </p>
 
 ---
