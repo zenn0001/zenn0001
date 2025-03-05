@@ -1,7 +1,5 @@
 # Justine Lawrence Coronel | Bachelor of Science in Computer Science Student 🖥🖱
 
-💻 **Aspiring Developer | Student at Cavite State University - Imus Campus**  
-📚 Passionately learning **C++, OOP & Data Structures, and exploring the vast world of technology**
 
 🎓 **Currently a student at Cavite State University - Imus Campus**  
 📚 Exploring the world of **programming, software development, and web technologies**  
@@ -21,11 +19,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" height="75" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
 </p>
 
-### **🎨 Design & Editing**  
+### **🎨 Design & Editing**
 <p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30" alt="Canva" />
-  🎬 **Video Editing**
+  <span style="display: inline-block; margin-left: 10px; vertical-align: middle;"><b>🎬 Video Editing</b></span>
 </p>
+
 
 ---
 
@@ -59,4 +58,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zenn0001&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://streak-stats.demolab.com?user=zenn0001&theme=radical&hide_border=true" />
+</p>
 </p>
