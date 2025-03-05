@@ -22,8 +22,9 @@
 ### **🎨 Design & Editing**
 <p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30" alt="Canva" />
-  <h3>🎬Video Editing</h3>
+  <span style="display: inline-block; margin-left: 10px; vertical-align: middle;"><b>🎬 Video Editing</b></span>
 </p>
+
 
 ---
 
