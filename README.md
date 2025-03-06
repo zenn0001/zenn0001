@@ -11,7 +11,7 @@
 
 ### **💻 Programming Languages**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,postgres" height="75" alt="Java, C++, SQL" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,sql" height="75" alt="Java, C++, SQL" />
 </p>
 
 ### **🌐 Frontend Development**  
