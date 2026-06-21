@@ -1,123 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF4F9A&height=220&section=header&text=Justine%20Lawrence%20Coronel&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=aka%20Zenn%20%F0%9F%8C%BF%20Full-Stack%20Developer%20%26%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&descColor=FF4F9A" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="Justine Lawrence Coronel — Zenn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=FF4F9A&background=00000000&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Turning+Curiosity+Into+Code;3rd+Year+BSCS+%40+CvSU+-+Imus;Full-Stack+Dev+%7C+Cybersecurity-Curious" alt="Typing SVG" />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4F9A,100:0D1117&height=3&width=1000" width="100%"/>
+<sub><i>"Imagination is more important than knowledge."</i> — Albert Einstein</sub>
+
+<br/><br/>
+
+<img src="./assets/divider.svg" width="100%"/>
 
 </div>
 
-## 🌿 About Me
+## I. ABOUT
 
-I'm a 3rd year **BS Computer Science** student at **Cavite State University – Imus Campus**, building toward a career somewhere between full‑stack development and cybersecurity. I like software that survives contact with real users — not just code that survives a grading rubric.
+I am a 3rd year **BS Computer Science** student at **Cavite State University – Imus Campus**, working toward a career somewhere between full-stack development and cybersecurity.
 
-- 🛠️ Full-stack web developer with hands-on project experience, currently hunting for an internship
-- 🛡️ Curious about cybersecurity — I want to understand how things break before I build them
-- 💬 Former Customer Experience Associate — I design with the person on the other end of the screen in mind
-- 🌱 Currently sharpening my fundamentals in algorithms, data structures, and system design
+- Full-stack web developer with hands-on project experience, currently seeking an internship
+- Drawn to cybersecurity — wanting to understand how things break before building them
+- Formerly a Customer Experience Associate, which still shapes how I think about the person on the other end of the screen
+- Presently sharpening fundamentals in algorithms, data structures, and system design
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4F9A,100:0D1117&height=2&width=1000" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
-## 🌿 Tech Stack
+## II. THE CRAFT
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,py,js,mysql&theme=dark" height="55"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" height="55"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF"/>
 
 **Backend, Data & Platform**
 <br/>
-<img src="https://skillicons.dev/icons?i=firebase,git,github&theme=dark" height="55"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 **Hardware**
 <br/>
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="55"/>
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
 
-<sub>+ REST APIs · NoSQL · Embedded systems</sub>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4F9A,100:0D1117&height=2&width=1000" width="100%"/>
-</div>
-
-## 🌿 Featured Projects
-
-**🎓 Aralink** — Offline-first, AI-powered adaptive learning platform built for Filipino students in low-connectivity areas. *(Undergraduate thesis.)*
-<br/><img src="https://img.shields.io/badge/AI-FF4F9A?style=flat-square"/> <img src="https://img.shields.io/badge/EdTech-7B2D5E?style=flat-square"/> <img src="https://img.shields.io/badge/Offline--First-FF4F9A?style=flat-square"/>
-
-**🚌 Asphabase** — Transit-infrastructure tooling combining GTFS-Flex formatting, OCR/NLP data ingestion, human-in-the-loop validation, and OSM spatial grids.
-<br/><img src="https://img.shields.io/badge/Transit-7B2D5E?style=flat-square"/> <img src="https://img.shields.io/badge/Data%20Pipelines-FF4F9A?style=flat-square"/> <img src="https://img.shields.io/badge/Simulation-7B2D5E?style=flat-square"/>
-
-**🍜 Ramenila** — Operations platform built for the realities of running a restaurant, not just the theory of one.
-<br/><img src="https://img.shields.io/badge/Ops%20Tooling-FF4F9A?style=flat-square"/> <img src="https://img.shields.io/badge/Full--Stack-7B2D5E?style=flat-square"/>
-
-**🧠 DigiSelf** — A digital psychology education app, designed to make mental-health literacy more accessible.
-<br/><img src="https://img.shields.io/badge/EdTech-FF4F9A?style=flat-square"/> <img src="https://img.shields.io/badge/UX-7B2D5E?style=flat-square"/>
-
-<div align="center">
-<sub>Four projects, one thesis tying them together: tech built for real-world conditions.</sub>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4F9A,100:0D1117&height=2&width=1000" width="100%"/>
-</div>
-
-## 🌿 Beyond the Code
-
-🎬 Always mid-series, never not behind on something &nbsp;|&nbsp; 🎧 Rarely coding in silence &nbsp;|&nbsp; 🐶 Outranked in my own home by my dog
-
-<div align="center">
-
-> 💭 *"Imagination is more important than knowledge."* — Albert Einstein
+<sub>+ REST APIs &middot; NoSQL &middot; embedded systems</sub>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4F9A,100:0D1117&height=2&width=1000" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
-## 🌿 GitHub Stats
+## III. THE WORKS
+
+A small catalogue of work, presented as it would appear on a gallery wall.
+
+**PLATE I &middot; ARALINK**
+<br/><i>Medium:</i> offline-first artificial intelligence &nbsp;&middot;&nbsp; <i>Subject:</i> adaptive learning for Filipino classrooms without reliable connectivity &nbsp;&middot;&nbsp; <i>Provenance:</i> undergraduate thesis
+
+**PLATE II &middot; ASPHABASE**
+<br/><i>Medium:</i> GTFS-Flex pipelines, OCR/NLP ingestion &nbsp;&middot;&nbsp; <i>Subject:</i> transit infrastructure modeled on real ridership conditions
+
+**PLATE III &middot; RAMENILA**
+<br/><i>Medium:</i> full-stack operations tooling &nbsp;&middot;&nbsp; <i>Subject:</i> a restaurant run the way restaurants are actually run
+
+**PLATE IV &middot; DIGISELF**
+<br/><i>Medium:</i> applied UX, education design &nbsp;&middot;&nbsp; <i>Subject:</i> psychology education made legible
+
+<div align="center"><sub>Four plates, one thesis: tech built for real-world conditions.</sub></div>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%"/>
+</div>
+
+## IV. BEYOND THE STUDIO
+
+Always mid-series and behind on something &nbsp;&middot;&nbsp; rarely working in silence &nbsp;&middot;&nbsp; outranked, in her own home, by her dog.
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%"/>
+</div>
+
+## V. BY THE NUMBERS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zenn0001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4F9A&icon_color=FF4F9A&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenn0001&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4F9A&text_color=C9D1D9"/>
-
-<img src="https://streak-stats.demolab.com?user=zenn0001&hide_border=true&background=0D1117&ring=FF4F9A&fire=FF4F9A&currStreakLabel=FF4F9A&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zenn0001&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&border_color=000000"/>
+<img height="165" src="https://streak-stats.demolab.com?user=zenn0001&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000&border=000000"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4F9A,100:0D1117&height=2&width=1000" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 </div>
 
-## 🌿 Let's Connect
+## VI. CORRESPONDENCE
 
 <div align="center">
 
 <a href="mailto:justinelawrencecoronel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF4F9A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 <a href="https://linkedin.com/in/justinelawrencecoronel" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FF4F9A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 <a href="https://github.com/zenn0001" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-FF4F9A?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
 <sub>I build things meant to actually get used, not just graded.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F9A,100:0D1117&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<sub><i>&mdash; Fin &mdash;</i></sub>
+<br/>
+<sub style="font-size:11px">Drafted in Imus, Cavite.</sub>
 
 </div>
